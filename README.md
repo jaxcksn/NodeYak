@@ -11,7 +11,7 @@ Additionally, I will not be documenting nor providing a method anywhere in the p
 ## Example Usage
 
 ```js
-import NodeYak from 'nodeyak';
+import { NodeYak } from 'nodeyak';
 
 let authorization = {
   authToken: '[AUTH TOKEN]',
@@ -28,7 +28,7 @@ YakManager.createYak({
     lat: 40.6,
     lon: -73.9,
   },
-  locations: ['Brooklyn,NY'],
+  locations: ['Brooklyn, NY'],
   isIncognito: true,
 });
 ```
