@@ -8,6 +8,14 @@ This library is for education purposes only. Using the API directly for any reas
 
 Additionally, I will not be documenting nor providing a method anywhere in the project on getting authorization/refresh tokens for the API.
 
+## Installation
+
+Install using your package manager of choice:
+
+```shell
+$ npm i nodeyak
+```
+
 ## Example Usage
 
 ```js

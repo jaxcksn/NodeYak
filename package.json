@@ -7,7 +7,7 @@
   "module": "build/module/index.js",
   "repository": "https://github.com/jaxcksn/nodeyak",
   "license": "MIT",
-  "keywords": [],
+  "keywords": ["yikyak","yak"],
   "scripts": {
     "build": "run-p build:*",
     "build:main": "tsc -p tsconfig.json",
